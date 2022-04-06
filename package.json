@@ -9,8 +9,10 @@
     "start": "node dist/main/server.js"
   },
   "dependencies": {
+    "apollo-server-express": "^3.6.7",
     "dotenv": "^14.2.0",
     "express": "^4.17.2",
+    "graphql": "^16.3.0",
     "module-alias": "^2.2.2"
   },
   "devDependencies": {

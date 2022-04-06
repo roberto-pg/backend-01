@@ -1,8 +1,9 @@
+import { setupRoutes } from '@/main/config/routes'
+import { setupApolloServer } from '@/main/config/apollo-server'
+
 import express from 'express'
 
-import { setupRoutes } from '@/main/config/routes'
-
 const app = express()
+setupApolloServer(app)
 setupRoutes(app)
-
 export default app
