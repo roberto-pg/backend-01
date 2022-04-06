@@ -1,8 +1,8 @@
 ## Repository for study and tests
 <br/>
 
-<h3>API example using clean architecture.</h3>
-<h3>Rodrigo Manguinho shows how to use Typescript, Rest and GraphQl using the Clean Architecture concept.</h3>
+<p>API example using clean architecture.</p>
+<p>Rodrigo Manguinho shows how to use Typescript, Rest and GraphQl using the Clean Architecture concept.</p>
 <br/>
 <br/>
 
